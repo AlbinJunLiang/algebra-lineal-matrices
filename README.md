@@ -16,7 +16,7 @@ Este proyecto pertenece al curso de álgebra lineal, está enfocado en ejercicio
 1. Soporta el ingreso de datos con formato fracción de la siguiente forma **5/2, 56/7** y etc.
 2. Para el ingreso de matrices solo está para tamaños de **2x2** hasta **4x4**.
 3. Para el cálculo de determinantes **3x3** se da la opción al ususario de calcular por medio del método de **Sarrus** o por cofactores.
-4. Se puede extender el tamaño de la interfaz gráfica a pantall completa.
+4. Se puede extender el tamaño de la interfaz gráfica a pantalla completa.
 5. Durante el ingreso de ecuaciones de planos pueden ser desordenadas ya sea como **5y=89-5z+6x**, tambíen pueden ser ecuaciones incompletas. No se admite valores duplicados de **y** o **x** a excepcion de coeficientes de número solo como por ejemplo **5x+3y-5=65** ahi el número solo sería **70**, en cualquier caso de igual manera el programa valida el ingreso de la ecuación del plano.
 
 ## Imágenes
